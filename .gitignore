@@ -1,0 +1,36 @@
+# Python / FastAPI
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.env.*
+!.env.example
+*.db
+*.sqlite3
+
+# Flutter / Dart
+.dart_tool/
+.flutter-plugins*
+.packages
+build/
+mobile/android/local.properties
+mobile/android/key.properties
+*.jks
+*.keystore
+
+# C / OpenWrt
+*.o
+*.elf
+*.bin
+*.ipk
+*.squashfs
+*.log
+
+# IDE
+.vscode/
+.idea/
+
+# Sistema
+.DS_Store
+
