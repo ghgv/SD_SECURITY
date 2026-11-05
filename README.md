@@ -1,4 +1,8 @@
 # Nubeware SD Security — Flutter + FastAPI + OpenWrt
+El router se accesa como:
+
+ssh -o HostKeyAlgorithms=+ssh-rsa root@192.168.1.1
+
 
 ## Arquitectura
 
